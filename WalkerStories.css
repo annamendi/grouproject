@@ -1,0 +1,124 @@
+.navbar{
+	background-color: #C0C0C0;
+	height: 10%;
+}
+.HeadImage{
+	display: cover;
+	box-sizing: inherit;
+	position:relative;
+	border-top: 6px solid;
+	border-bottom: 6px solid;
+	border-color: #cc1aac;
+	}
+.Bar{
+	background-color: #3a3a3a;
+	text-align: center;
+	height: 150px;
+	color: white;
+	font-size:2rem;
+}
+table {
+	width: 100%;
+	border-top: 4px solid #FF0099;
+}
+.Michelle_Text{
+	padding-top: 20px;
+	width:60%;
+	float:left;
+	padding-right: 30px;
+	margin-right: 20px;
+}
+img{
+	width: 400px;
+	padding-top: 40px;
+	padding-bottom: 80px;
+	padding-right: 40px;
+	padding-left: 20px;
+}
+.Text2{
+	padding-right: 30px;
+	margin-right: 20px;
+	background-color: #C0C0C0;
+	float:left;
+}
+hr{
+	margin-right: 100px;
+}
+
+.Laura_Text{
+	padding-top: 80px;
+	width:60%;
+	float:left;
+	padding-right: 30px;
+	margin-right: 20px;
+}
+.button_donate {
+    background-color: white;
+    border: #FF0099 2px solid;
+    color: #FF0099;
+    padding: 5px 25px;
+    text-align: center;
+    float: right;
+    font-size: 16px;
+    border-radius: 35%;
+    padding left: 10px;
+}
+.button_home {
+    background-color: white;
+    border: #FF0099 2px solid;
+    color: #FF0099;
+    padding: 5px 25px;
+    text-align: center;
+    float: right;
+    font-size: 16px;
+    border-radius: 35%;
+}
+.MarilynText{
+	padding-right: 30px;
+	margin-right: 20px;
+	background-color: #C0C0C0;
+	float:left;
+}
+.Kim_Text{
+	padding-top: 80px;
+	width:60%;
+	float:left;
+	padding-right: 30px;
+	margin-right: 20px;
+}
+.KierstenText{
+	padding-right: 30px;
+	margin-right: 20px;
+	background-color: #C0C0C0;
+	float:left;
+}
+.footer{
+	padding-top: 50px;
+	width:100%;
+	float:left;
+	padding-right: 30px;
+	margin-right: 20px;
+	padding-left: 300px;
+	background-color: #3a3a3a;
+	color: #FF0099;
+
+}
+ul{
+	 list-style-type: none;
+}
+.home{
+	float:left;
+}
+.event{
+	float:left;
+}
+.get_prepared{
+	float:left;
+}
+.contact_us{
+	float:left;
+}
+
+
+	
+
