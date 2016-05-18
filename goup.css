@@ -1,19 +1,38 @@
 
 html{
-	background: 0000000;
+	background-image: url("pinkribbon.jpeg")
 }
 img{
 	height: 10%;
 }
+nav{
+	background-color: pink;
+}
 
 nav li {
-	display: inline
+	display: inline 
 	margin: 0;
+	color: grey;
 
 }
 li{
 	display: inline;
+	font-size: 42px;
+	font-stretch: 50px;
 }
+.pinkbox{
+	float:left;
+}
+.p{
+	font- color: pink;
+	font-size: 25px;
+
+}
+
+.iframe{
+
+}
+
 .nav-wrapper{
 	text-align: center;
 	 background-color: pink;
@@ -34,33 +53,5 @@ li{
 .nav-wrapper a{
 	color: black;
 }
-.footer-wrapper{
-	text-align: left;
-	background-color: grey;
-	position:absolute;
-	top: 0;
-	left:0;
-	width: 100%;
-}
-.footer-wrapper ul{
-	margin: 0;
-	padding: 0;
-	float: left;
-}
-.footer-wrapper li{
-	display: inline-block;
-	padding: 10px;
-	float: left;
-}
-
-.footer-wrapper a{
-	color: black;
-	float: left;
-}
-.footer-wrapper li{
-	display: inline-block;
-	padding: 10px;
-	float: left;
-}
-
-
+.
+.
